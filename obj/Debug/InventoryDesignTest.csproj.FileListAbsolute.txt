@@ -1,0 +1,6 @@
+D:\Programming\app1\InventoryDesiginTest\InventoryDesignTest\bin\Debug\InventoryDesignTest.exe
+D:\Programming\app1\InventoryDesiginTest\InventoryDesignTest\bin\Debug\InventoryDesignTest.pdb
+D:\Programming\app1\InventoryDesiginTest\InventoryDesignTest\obj\Debug\InventoryDesignTest.csproj.AssemblyReference.cache
+D:\Programming\app1\InventoryDesiginTest\InventoryDesignTest\obj\Debug\InventoryDesignTest.csproj.CoreCompileInputs.cache
+D:\Programming\app1\InventoryDesiginTest\InventoryDesignTest\obj\Debug\InventoryDesignTest.exe
+D:\Programming\app1\InventoryDesiginTest\InventoryDesignTest\obj\Debug\InventoryDesignTest.pdb
